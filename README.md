@@ -21,7 +21,7 @@ If you find this repository useful, please consider giving us a ⭐. Thank you f
 
 ---
 
-## 📖 Citation
+## Citation
 
 If our work is helpful in your research, please cite our survey as:
 
