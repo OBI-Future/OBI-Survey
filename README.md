@@ -74,8 +74,8 @@ If our work is helpful in your research, please cite our survey as:
 |    Oracle-250      | [Recognition of Oracle Radical based on the Capsule network](https://tis.hrbeu.edu.cn/en/oa/darticle.aspx?type=view&id=201904069) | *N/A* |
 |   Radical-148      | [Recognition of Oracle Radical based on the Capsule network](https://tis.hrbeu.edu.cn/en/oa/darticle.aspx?type=view&id=201904069) | *N/A* |
 |      OBI125        | [Dynamic Dataset Augmentation for Deep Learning-based Oracle Bone Inscriptions Recognition](https://dl.acm.org/doi/abs/10.1145/3532868) | [Website](http://www.ihpc.se.ritsumei.ac.jp/obidataset.html) |
-|      OBI-100        | [Improvement of Oracle Bone Inscription Recognition Accuracy: A Deep Learning Perspective](https://www.mdpi.com/2220-9964/11/1/45) | [Website](http://www.ihpc.se.ritsumei.ac.jp/obidataset.html) |
-|    Oracle-241      | [Unsupervised Structure-Texture Separation Network for Oracle Character Recognition](https://ieeexplore.ieee.org/document/9757826) | *N/A* |
+|      OBI-100        | [Improvement of Oracle Bone Inscription Recognition Accuracy: A Deep Learning Perspective](https://www.mdpi.com/2220-9964/11/1/45) | *N/A* |
+|    Oracle-241      | [Unsupervised Structure-Texture Separation Network for Oracle Character Recognition](https://ieeexplore.ieee.org/document/9757826) | [Github](https://github.com/wm-bupt/STSN) |
 |       ORCD         | [Radical-based Extract and Recognition Networks for Oracle Character Recognition](https://link.springer.com/article/10.1007/s10032-021-00392-2) | *N/A* |
 |       OCCD         | [Radical-based Extract and Recognition Networks for Oracle Character Recognition](https://link.springer.com/article/10.1007/s10032-021-00392-2) | *N/A* |
 |     OracleRC       | [RZCR: Zero-shot Character Recognition via Radical-based Reasoning](https://dl.acm.org/doi/10.24963/ijcai.2023/73) | *N/A* |
