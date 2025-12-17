@@ -6,7 +6,7 @@ This repository accompanies the survey *Oracle Bone Inscriptions Information Pro
 
 ![Overview](image/overview.png)
 
-**Paper:** *Coming soon*  
+**Paper:** *[Researchgate](https://www.researchgate.net/publication/398765990_Oracle_Bone_Inscriptions_Information_Processing_A_Comprehensive_Survey?channel=doi&linkId=694220050c98040d481e68ab&showFu*  
 **Project Page:** *This repository*
 
 ---
@@ -15,7 +15,7 @@ This repository accompanies the survey *Oracle Bone Inscriptions Information Pro
 
 We warmly welcome pull requests (PRs)!
 
-If you contribute **five or more valid OBI-related benchmarks or datasets** with relevant details (task type, paper link, and project page if available), your contribution will be acknowledged in the next update of the survey’s *Acknowledgment* section.
+If you contribute **five or more valid OBI-related benchmarks or datasets** with relevant details (task type, paper link, and project page if available), your contribution will be acknowledged in the next update of the  *Acknowledgment*.
 
 If you find this repository useful, please consider giving us a ⭐. Thank you for your support!
 
