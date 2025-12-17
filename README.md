@@ -4,7 +4,7 @@ This repository accompanies the survey *Oracle Bone Inscriptions Information Pro
 
 **We will continuously maintain and update this repository to ensure long-term value for the community.**
 
-![Overview](overview.png)
+![Overview](image/overview.png)
 
 **Paper:** *Coming soon*  
 **Project Page:** *This repository*
