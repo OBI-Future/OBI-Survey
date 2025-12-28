@@ -112,7 +112,7 @@ year={2025}
 |    Oracle-P15k   | [Mitigating Long-tail Distribution in Oracle Bone Inscriptions: Dataset, Model, and Benchmark](https://dl.acm.org/doi/10.1145/3746027.3755067) | [Github](https://github.com/OBI-Future/Oracle-P15K) |
 
 ## Paper Index (Task-oriented)
-This section provides a task-oriented index of **OBI Processing Tasks and Approaches** papers, aligned with the task taxonomy used in this survey (Section 4 of our [paper](https://www.researchgate.net/publication/398765990_Oracle_Bone_Inscriptions_Information_Processing_A_Comprehensive_Survey)). Only OBI-focused papers are included.
+This section provides a task-oriented index of **OBI Processing Tasks and Approaches** papers, aligned with the task taxonomy used in this survey (Section 4 of our [paper](https://www.authorea.com/users/1009838/articles/1369823-oracle-bone-inscriptions-information-processing-a-comprehensive-survey)). Only OBI-focused papers are included.
 
 ### OBI Preprocessing: Data Augmentation & Restoration
 
