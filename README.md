@@ -35,12 +35,13 @@ year={2025}
 
 ## Table of Contents
 
-1. [Recognition](#recognition)
-2. [Rejoining](#rejoining)
-3. [Classification and Retrieval](#classification-and-retrieval)
-4. [Decipherment](#decipherment)
-5. [Others](#others)
-6. [Paper Index (Task-oriented)](#paper-index-task-oriented)
+1. [OBI-Dataset](#OBI-Dataset) 
+   - [Recognition](#recognition)
+   - [Rejoining](#rejoining)
+   - [Classification and Retrieval](#classification-and-retrieval)
+   - [Decipherment](#decipherment)
+   - [Others](#others)
+2. [Paper Index (Task-oriented)](#paper-index-task-oriented)
    - [OBI Preprocessing](#obi-preprocessing-data-augmentation--restoration)
    - [OBI Recognition](#obi-recognition)
    - [OBI Rejoining](#obi-rejoining)
@@ -49,6 +50,7 @@ year={2025}
 
 
 ---
+## OBI-Dataset 
 
 ## Recognition
 |        Dataset         |                             Paper                              |                        Project Page                         |
