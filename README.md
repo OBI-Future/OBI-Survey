@@ -5,6 +5,7 @@
     <a href="https://www.authorea.com/users/1009838/articles/1369823-oracle-bone-inscriptions-information-processing-a-comprehensive-survey"><img src="https://img.shields.io/badge/Techrxiv-red"/></a>
 </div>
 </div>
+
 # Oracle Bone Inscriptions Information Processing: A Comprehensive Survey
 
 This repository accompanies the survey *Oracle Bone Inscriptions Information Processing: A Comprehensive Survey* and systematically organizes benchmarks and resources across oracle bone character recognition, fragment rejoining, classification and retrieval, decipherment, and related multimodal tasks. It aims to serve as a collection for reporting progress in the field of Oracle Bone Inscriptions Processing.
