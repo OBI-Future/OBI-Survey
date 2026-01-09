@@ -13,7 +13,11 @@ This repository accompanies the survey *Oracle Bone Inscriptions Information Pro
 
 ## Contributions
 
-We warmly welcome pull requests (PRs)!
+📧 We warmly welcome pull requests (PRs)!
+
+Please contact the first author of this paper for queries.
+
+- Zijian Chen, `zijian.chen@sjtu.edu.cn`
 
 If you find this repository useful, please consider giving us a ⭐. Thank you for your support!
 
@@ -34,25 +38,66 @@ year={2025}
 ```
 
 ## Table of Contents
-
-1. [OBI-Dataset](#OBI-Dataset) 
-   - [Recognition](#recognition)
-   - [Rejoining](#rejoining)
-   - [Classification and Retrieval](#classification-and-retrieval)
-   - [Decipherment](#decipherment)
-   - [Others](#others)
-2. [Paper Index (Task-oriented)](#paper-index-task-oriented)
-   - [OBI Preprocessing](#obi-preprocessing-data-augmentation--restoration)
-   - [OBI Recognition](#obi-recognition)
-   - [OBI Rejoining](#obi-rejoining)
-   - [OBI Classification and Retrieval](#obi-classification-and-retrieval)
-   - [OBI Deciphering](#obi-deciphering)
+- [Oracle Bone Inscriptions Information Processing: A Comprehensive Survey](#oracle-bone-inscriptions-information-processing-a-comprehensive-survey)
+  - [Contributions](#contributions)
+  - [Citation](#citation)
+  - [Table of Contents](#table-of-contents)
+  - [Online Resource](#online-resource)
+  - [OBI-Dataset](#obi-dataset)
+    - [Recognition](#recognition)
+    - [Rejoining](#rejoining)
+    - [Classification and Retrieval](#classification-and-retrieval)
+    - [Decipherment](#decipherment)
+    - [Others](#others)
+  - [Paper Index (Task-oriented)](#paper-index-task-oriented)
+    - [OBI Preprocessing: Data Augmentation \& Restoration](#obi-preprocessing-data-augmentation--restoration)
+    - [OBI Recognition](#obi-recognition)
+      - [Traditional Pattern Recognition](#traditional-pattern-recognition)
+      - [Deep Representation Learning-Based Recognition](#deep-representation-learning-based-recognition)
+    - [OBI Rejoining](#obi-rejoining)
+      - [Contour Matching-Based Methods](#contour-matching-based-methods)
+      - [Deep Learning–Assisted Methods](#deep-learningassisted-methods)
+    - [OBI Classification and Retrieval](#obi-classification-and-retrieval)
+      - [Supervised Deep Learning](#supervised-deep-learning)
+      - [Zero-Shot and Few-Shot Learning](#zero-shot-and-few-shot-learning)
+      - [Cross-Modal Learning](#cross-modal-learning)
+    - [OBI Deciphering](#obi-deciphering)
+      - [Modern Chinese Alignment-Based Deciphering](#modern-chinese-alignment-based-deciphering)
+      - [Visual Content Alignment-Based Deciphering](#visual-content-alignment-based-deciphering)
+      - [Text Interpretation-Based Deciphering](#text-interpretation-based-deciphering)
 
 
 ---
+## Online Resource
+|    OBI Website     |        Project Page                      |
+| :------------: | :--------------------------------------------------------------: | 
+|Yin Qi Wen Yuan|https://jgw.aynu.edu.cn/home/index.html|
+|Xiao Xue Tang|https://xiaoxue.iis.sinica.edu.tw/|
+|Guo Xue Da Shi|https://www.guoxuedashi.com/|
+|Zhui Yu Lian Zhu|https://www.fdgwz.org.cn/ZhuiHeLab/Home|
+|Omniglot|https://www.omniglot.com/chinese/jiaguwen.htm|
+|Multi-function Chinese Character Database|https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/|
+|Yin Xu OBI Database|https://obid.ancientbooks.cn/|
+|Chinese Etymology|https://hanziyuan.net|
+|OBI AI Collaborative Platform|https://www.jgwlbq.org.cn/home|
+|------------| --------------------------------------------------------------| 
+|__Museum Collection__|
+|故宫博物院|https://digicol.dpm.org.cn/list?category=18&dynasty=1265|
+|河南博物院|https://www.chnmus.net/ch/collection/boutique/index.html?pageIndex=1&dictionaryValues=type_%E7%94%B2%E9%AA%A8%E7%AE%80%E7%89%8D&dictionaryValues=years_商|
+|辽宁省博物馆|https://www.lnmuseum.com.cn/#/collect/digital-culture|
+|山东博物馆|https://www.sdmuseum.com/col/col353161/index.html?uid=750411&pageNum=1|
+|陕西历史博物馆|https://www.sxhm.com/collection.html|
+|上海博物馆|https://www.shanghaimuseum.net/mu/frontend/pg/lib1/antique?libTypes=LIB_TYPE_0005|
+|殷墟博物馆|https://www.ayyx.com/yxgw/collection|
+|浙江省博物馆|https://www.zhejiangmuseum.com/cn/#/Collection/ExcellentCollection|
+|中国国家博物馆|https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26025.shtml|
+|重庆中国三峡博物馆|https://www.3gmuseum.cn/#/collectorsEdition/disclosure?recNo=4028808a5e3b12de015e3b2c79340003&acTiveNo=4028808a5e3b12de015e3b2c79340003|
+
+
+
 ## OBI-Dataset 
 
-## Recognition
+### Recognition
 |        Dataset         |                             Paper                              |                        Project Page                         |
 | :--------------------: | :-------------------------------------------------------------: | :----------------------------------------------------------: |
 |  YinQiWenYuan_detection  | YinQiWenYuan: Oracle Bone Character Detection Dataset | [Website](https://jgw.aynu.edu.cn/home/down/detail/index.html?sysid=3) |
@@ -61,7 +106,7 @@ year={2025}
 |          O2BR          | [OBI-Bench: Can LMMs Aid in Study of Ancient Script on Oracle Bones?](https://arxiv.org/abs/2412.01175) | [Github](https://github.com/zijianchen98/OBI-Bench) |
 
 
-## Rejoining
+### Rejoining
 |    Dataset     |                              Paper                              |                     Project Page                      |
 | :------------: | :--------------------------------------------------------------: | :----------------------------------------------------: |
 |   OB-Rejoin    | [Data-Driven Oracle Bone Rejoining: A Dataset and Practical Self-Supervised Learning Scheme](https://dl.acm.org/doi/10.1145/3534678.3539050) | *N/A* |
@@ -69,7 +114,7 @@ year={2025}
 |   OBI-rejoin   | [OBI-Bench: Can LMMs Aid in Study of Ancient Script on Oracle Bones?](https://arxiv.org/abs/2412.01175) | [Github](https://github.com/zijianchen98/OBI-Bench) |
 |      OBFI      | [Deep Rejoining Model and Dataset of Oracle Bone Fragment Images](https://www.nature.com/articles/s40494-025-01651-9) | *N/A* |
 
-## Classification and Retrieval
+### Classification and Retrieval
 
 |      Dataset       |                             Paper                              |                        Project Page                         |
 | :----------------: | :-------------------------------------------------------------: | :----------------------------------------------------------: |
@@ -90,7 +135,7 @@ year={2025}
 |   Oracle-MNIST     | [Oracle-MNIST: a Dataset of Oracle Characters for Benchmarking Machine Learning Algorithms](https://www.nature.com/articles/s41597-024-02933-w) | [Github](https://github.com/wm-bupt/oracle-mnist) |
 | OBI component 20   | [Component-Level Oracle Bone Inscription Retrieval](https://dl.acm.org/doi/10.1145/3652583.3658116) | [Github](https://github.com/hutt94/Component-Level-OBI-Retrieval) |
 
-## Decipherment
+### Decipherment
 
 |     Dataset      |                             Paper                              |                        Project Page                         |
 | :--------------: | :-------------------------------------------------------------: | :----------------------------------------------------------: |
@@ -103,7 +148,7 @@ year={2025}
 |      PD-OBS       | [Interpretable Oracle Bone Script Decipherment through Radical and Pictographic Analysis with LVLMs](https://arxiv.org/abs/2508.10113) | [Github](https://github.com/PKXX1943/PD-OBS) |
 |   PictOBI-20k    | [PictOBI-20k: Unveiling Large Multimodal Models in Visual Decipherment for Pictographic Oracle Bone Characters](https://arxiv.org/abs/2509.05773) | [Github](https://github.com/OBI-Future/PictOBI-20k) |
 
-## Others
+### Others
 |     Dataset      |                             Paper                              |                        Project Page                         |
 | :--------------: | :-------------------------------------------------------------: | :----------------------------------------------------------: |
 |       RCRN       | [RCRN: Real-world Character Image Restoration Network via Skeleton Extraction](https://dl.acm.org/doi/10.1145/3503161.3548344) | [Github](https://github.com/daqians/Noisy-character-image-benchmark) |
