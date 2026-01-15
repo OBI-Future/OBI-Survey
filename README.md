@@ -1,6 +1,6 @@
 <div align="center">
 <div>
-<a href="https://github.com/OBI-Future/OBI-Survey"><img src="https://visitor-badge.laobi.icu/badge?page_id=OBI-Future/OBI-Survey"/></a>
+    <a href="https://github.com/OBI-Future/OBI-Survey"><img src="https://visitor-badge.laobi.icu/badge?page_id=OBI-Future/OBI-Survey"/></a>
     <a href="https://github.com/OBI-Future/OBI-Survey"><img src="https://img.shields.io/github/stars/OBI-Future/OBI-Survey"/></a>
     <a href="https://www.authorea.com/users/1009838/articles/1369823-oracle-bone-inscriptions-information-processing-a-comprehensive-survey"><img src="https://img.shields.io/badge/Techrxiv-red"/></a>
 </div>
