@@ -121,6 +121,7 @@ year={2025}
 |      COBD      | [SFF-Siam: A New Oracle Bone Rejoining Method Based on Siamese Network](https://ieeexplore.ieee.org/document/10153461) | *N/A* |
 |   OBI-rejoin   | [OBI-Bench: Can LMMs Aid in Study of Ancient Script on Oracle Bones?](https://arxiv.org/abs/2412.01175) | [Github](https://github.com/zijianchen98/OBI-Bench) |
 |      OBFI      | [Deep Rejoining Model and Dataset of Oracle Bone Fragment Images](https://www.nature.com/articles/s40494-025-01651-9) | *N/A* |
+|    OBID-ACR (2026)    |[A multi-modal dataset and method for bone-level association prediction in oracle bone inscriptions](https://www.nature.com/articles/s40494-025-02282-w) | [Github](https://github.com/Borisfwyy/SGBSAP) |
 
 ### Classification and Retrieval
 
@@ -227,6 +228,7 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 | [SFF-Siam: A New Oracle Bone Rejoining Method Based on Siamese Network](https://ieeexplore.ieee.org/document/10153461) | IEEE CG&A 2023 | Siamese network with similarity feature fusion |
 | [Data-driven Oracle Bone Rejoining: A Dataset and Practical Self-supervised Learning Scheme](https://dl.acm.org/doi/10.1145/3534678.3539050) | KDD 2022 | Self-supervised learning, dataset-driven |
 | [OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery](https://arxiv.org/abs/2505.03836) | arXiv 2025 | Duplicate discovery, coarse-to-fine matching |
+| [A multi-modal dataset and method for bone-level association prediction in oracle bone inscriptions](https://www.nature.com/articles/s40494-025-02282-w) |npj heritage science 2026|multi-modal deep learning method|
 
 
 ### OBI Classification and Retrieval
