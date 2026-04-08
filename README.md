@@ -2,7 +2,7 @@
 <div>
     <a href="https://github.com/OBI-Future/OBI-Survey"><img src="https://visitor-badge.laobi.icu/badge?page_id=OBI-Future/OBI-Survey"/></a>
     <a href="https://github.com/OBI-Future/OBI-Survey"><img src="https://img.shields.io/github/stars/OBI-Future/OBI-Survey"/></a>
-    <a href="https://www.authorea.com/users/1009838/articles/1369823-oracle-bone-inscriptions-information-processing-a-comprehensive-survey"><img src="https://img.shields.io/badge/Techrxiv-red"/></a>
+    <a href="https://www.nature.com/articles/s40494-026-02511-w"><img src="https://img.shields.io/badge/npj-heritage-science-red"/></a>
 </div>
 </div>
 
@@ -14,7 +14,7 @@ This repository accompanies the survey *Oracle Bone Inscriptions Information Pro
 
 ![Overview](image/overview.png)
 
-**Paper:** *[Techrxiv](https://www.authorea.com/users/1009838/articles/1369823-oracle-bone-inscriptions-information-processing-a-comprehensive-survey)*  
+**Paper:** *[npj heritage science](https://www.nature.com/articles/s40494-026-02511-w)*  
 **Project Page:** *This repository*
 
 ---
@@ -36,13 +36,14 @@ If you find this repository useful, please consider giving us a ⭐. Thank you f
 If our work is helpful in your research, please cite our survey as:
 
 ```bibtex
-@article{Chen_2025,
+@article{Chen_2026,
 title={Oracle Bone Inscriptions Information Processing: A Comprehensive Survey},
-url={http://dx.doi.org/10.22541/au.176616165.50988592/v1},
-DOI={10.22541/au.176616165.50988592/v1},
-publisher={Wiley},
+journal={npj Heritage Science},
+  volume={14},
+  pages={220},
+  doi={10.1038/s40494-025-02000-6}
 author={Chen, Zijian and Hua, Wenjie and Li, Jinhao and Zhu, Yucheng and Zhi, Xiaona and Liu, Zhiji and Chen, Tingzhu and Zhang, Wenjun and Zhai, Guangtao},
-year={2025}
+year={2026}
 ```
 
 ## Table of Contents
