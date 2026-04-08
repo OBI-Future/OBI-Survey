@@ -44,6 +44,7 @@ pages={220},
 doi={10.1038/s40494-025-02000-6},
 author={Chen, Zijian and Hua, Wenjie and Li, Jinhao and Zhu, Yucheng and Zhi, Xiaona and Liu, Zhiji and Chen, Tingzhu and Zhang, Wenjun and Zhai, Guangtao},
 year={2026}
+}
 ```
 
 ## Table of Contents
