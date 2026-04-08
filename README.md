@@ -2,7 +2,7 @@
 <div>
     <a href="https://github.com/OBI-Future/OBI-Survey"><img src="https://visitor-badge.laobi.icu/badge?page_id=OBI-Future/OBI-Survey"/></a>
     <a href="https://github.com/OBI-Future/OBI-Survey"><img src="https://img.shields.io/github/stars/OBI-Future/OBI-Survey"/></a>
-    <a href="https://www.nature.com/articles/s40494-026-02511-w"><img src="https://img.shields.io/badge/npj-heritage-science-red"/></a>
+    <a href="https://www.nature.com/articles/s40494-026-02511-w"><img src="https://img.shields.io/badge/npj_heritage_science-red"/></a>
 </div>
 </div>
 
@@ -39,9 +39,9 @@ If our work is helpful in your research, please cite our survey as:
 @article{Chen_2026,
 title={Oracle Bone Inscriptions Information Processing: A Comprehensive Survey},
 journal={npj Heritage Science},
-  volume={14},
-  pages={220},
-  doi={10.1038/s40494-025-02000-6}
+volume={14},
+pages={220},
+doi={10.1038/s40494-025-02000-6},
 author={Chen, Zijian and Hua, Wenjie and Li, Jinhao and Zhu, Yucheng and Zhi, Xiaona and Liu, Zhiji and Chen, Tingzhu and Zhang, Wenjun and Zhai, Guangtao},
 year={2026}
 ```
