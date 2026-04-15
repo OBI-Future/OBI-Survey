@@ -41,7 +41,7 @@ title={Oracle Bone Inscriptions Information Processing: A Comprehensive Survey},
 journal={npj Heritage Science},
 volume={14},
 pages={220},
-doi={10.1038/s40494-025-02000-6},
+doi={10.1038/s40494-026-02511-w},
 author={Chen, Zijian and Hua, Wenjie and Li, Jinhao and Zhu, Yucheng and Zhi, Xiaona and Liu, Zhiji and Chen, Tingzhu and Zhang, Wenjun and Zhai, Guangtao},
 year={2026}
 }
