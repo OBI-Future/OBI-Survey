@@ -256,12 +256,12 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 
 | Paper | Venue & Year | Focus |
 | :---: | :----------: | :---- |
+| [RZCR: Zero-shot Character Recognition via Radical-based Reasoning](https://www.ijcai.org/proceedings/2023/73) | IJCAI 2023 | Radical-based zero-shot reasoning |
+| [Component-level Oracle Bone Inscription Retrieval](https://dl.acm.org/doi/10.1145/3652583.3658116) | ICMR 2024 | Component-level retrieval |
+| [Linking Unknown Characters via Oracle Bone Inscriptions Retrieval](https://link.springer.com/article/10.1007/s00530-024-01327-7) | Multimedia Systems 2024 | Unknown character retrieval |
 | [OracleGCD: Generalized Category Discovery for Oracle Bone Scripts](https://link.springer.com/chapter/10.1007/978-3-032-04624-6_27) | ICDAR 2025 | Generalized category discovery |
 | [Ora-NSC: A Novel Semi-supervised Approach for Oracle Bone Fragment Classification with Imbalanced Classes](https://dl.acm.org/doi/10.1145/3743093.3770992) | ACM MM Asia 2025 | Semi-supervised learning |
 | [OBI-CMF: Self-supervised Learning with Contrastive Masked Frequency Modeling for Oracle Bone Inscription Recognition](https://www.nature.com/articles/s40494-025-01644-8) | npj Heritage Science 2025 | Self-supervised contrastive learning |
-| [Linking Unknown Characters via Oracle Bone Inscriptions Retrieval](https://link.springer.com/article/10.1007/s00530-024-01327-7) | Multimedia Systems 2024 | Unknown character retrieval |
-| [RZCR: Zero-shot Character Recognition via Radical-based Reasoning](https://www.ijcai.org/proceedings/2023/73) | IJCAI 2023 | Radical-based zero-shot reasoning |
-| [Component-level Oracle Bone Inscription Retrieval](https://dl.acm.org/doi/10.1145/3652583.3658116) | ICMR 2024 | Component-level retrieval |
 
 #### Cross-Modal Learning
 
@@ -276,15 +276,16 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 
 | Paper | Venue & Year | Focus |
 | :---: | :----------: | :---- |
-| [Sundial-GAN: A Cascade GAN Framework for Deciphering Oracle Bone Inscriptions](https://dl.acm.org/doi/10.1145/3503161.3547925) | ACM MM 2022 | GAN-based simulation of oracle-to-modern character evolution |
-| [Deciphering Oracle Bone Language with Diffusion Models](https://aclanthology.org/2024.acl-long.831/) | ACL 2024 | Conditional diffusion for oracle–modern Chinese alignment |
-| [A Text–Image Dual Conditional Stable Diffusion Model for Oracle Bone Inscription Decipherment](https://www.nature.com/articles/s40494-025-02019-9) | npj Heritage Science 2025 | Dual-condition diffusion with visual–semantic alignment |
 | [Deciphering Ancient Chinese Oracle Bone Inscriptions Using Case-Based Reasoning](https://link.springer.com/chapter/10.1007/978-3-030-86957-1_21) | ICCBR 2021 | Auto-encoder–based multi-font feature retrieval |
 | [Study on the Evolution of Chinese Characters Based on Few-Shot Learning](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272974) | PLOS ONE 2022 | Few-shot Siamese learning for character evolution |
+| [Sundial-GAN: A Cascade GAN Framework for Deciphering Oracle Bone Inscriptions](https://dl.acm.org/doi/10.1145/3503161.3547925) | ACM MM 2022 | GAN-based simulation of oracle-to-modern character evolution |
+| [Deciphering Oracle Bone Language with Diffusion Models](https://aclanthology.org/2024.acl-long.831/) | ACL 2024 | Conditional diffusion for oracle–modern Chinese alignment |
 | [Puzzle Pieces Picker: Deciphering Ancient Chinese Characters with Radical Reconstruction](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_11) | ICDAR 2024 | Radical/stroke reconstruction via Transformer |
 | [Component-Level Segmentation for Oracle Bone Inscription Decipherment](https://ojs.aaai.org/index.php/AAAI/article/view/35030) | AAAI 2025 | Component-aware segmentation for decipherment |
 | [A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions](https://link.springer.com/chapter/10.1007/978-981-96-9794-6_17) | ICIC 2025 | Historical font intermediaries for alignment |
 | [A Graph-Based Evolutionary Dataset for Oracle Bone Characters](https://www.nature.com/articles/s40494-025-01951-0) | npj Heritage Science 2025 | Graph representations for oracle–modern character evolution |
+| [A Text–Image Dual Conditional Stable Diffusion Model for Oracle Bone Inscription Decipherment](https://www.nature.com/articles/s40494-025-02019-9) | npj Heritage Science 2025 | Dual-condition diffusion with visual–semantic alignment |
+|[Enhancing Multimodal Large Language Models for Ancient Chinese Character Evolution Analysis via Glyph-Driven Fine-Tuning](https://arxiv.org/pdf/2604.11299)]|arxiv 2026|Character Evolution Analysis, Glyph-Driven, MLLM|
 
 #### Visual Content Alignment-Based Deciphering
 
@@ -299,8 +300,8 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 
 | Paper | Venue & Year | Focus |
 | :---: | :----------: | :---- |
-| [OBI-Bench: Can LMMs Aid in Study of Ancient Script on Oracle Bones?](https://arxiv.org/abs/2412.01175) | ICLR 2025 | Systematic evaluation of LMM-based oracle interpretation |
 | [OracleSage: Towards Unified Visual-Linguistic Understanding of Oracle Bone Scripts](https://arxiv.org/abs/2411.17837) | arXiv 2024 | Cross-modal reasoning with knowledge fusion |
+| [OBI-Bench: Can LMMs Aid in Study of Ancient Script on Oracle Bones?](https://arxiv.org/abs/2412.01175) | ICLR 2025 | Systematic evaluation of LMM-based oracle interpretation |
 | [Interpretable Oracle Bone Script Decipherment through Radical and Pictographic Analysis with LVLMs](https://arxiv.org/abs/2508.10113) | arXiv 2025 | LVLM-based interpretable decipherment |
 | [OracleAgent: A Multimodal Reasoning Agent for Oracle Bone Script Research](https://arxiv.org/abs/2510.26114) | arXiv 2025 | Agentic system for structured oracle interpretation |
 
