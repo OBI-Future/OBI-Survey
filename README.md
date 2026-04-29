@@ -209,6 +209,7 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 | [Clustering-based Feature Representation Learning for Oracle Bone Inscriptions Detection](https://www.nature.com/articles/s40494-025-01850-4) | npj Heritage Science 2025 | Clustering-based representation learning |
 | [Radical-based Extract and Recognition Networks for Oracle Character Recognition](https://link.springer.com/article/10.1007/s10032-021-00392-2) | IJDAR 2022 | Radical-aware feature extraction |
 | [Toward Zero-shot Character Recognition: A Gold Standard Dataset with Radical-level Annotations](https://dl.acm.org/doi/10.1145/3581783.3612201) | ACM MM 2023 | Radical-level supervision, zero-shot setting |
+|[Prism-OBI: a novel framework for oracle bone inscription recognition via visual perception and feature decoupling](https://www.nature.com/articles/s40494-026-02493-9)|npj Heritage Science 2026|Semantic classification, isolating strokes|
 
 
 ### OBI Rejoining
@@ -249,6 +250,7 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 | [Oracle Character Image Retrieval by Combining Deep Neural Networks and Clustering Technology](https://www.iaeng.org/IJCS/issues_v47/issue_2/IJCS_47_2_08.pdf) | IAENG IJCS 2020 | DNN + clustering retrieval |
 | [Oracle Bone Inscription Image Retrieval Based on Improved ResNet Network](https://link.springer.com/chapter/10.1007/978-3-031-78305-0_4) | ICPR 2024 | Siamese-style metric learning |
 | [A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions](https://link.springer.com/chapter/10.1007/978-981-96-9794-6_17) | ICIC 2025 | Cross-font retrieval |
+|[Stroke-Based Perception: Discover Novel Oracle Characters](https://ieeexplore.ieee.org/abstract/document/11482847/)|IEEE TMM 2026|Semi-Supervised, Category Discovery|
 
 #### Zero-Shot and Few-Shot Learning
 
