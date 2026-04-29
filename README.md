@@ -167,7 +167,7 @@ year={2026}
 |     RMOBS      | [OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography](https://arxiv.org/abs/2506.21101) | *N/A* |
 |    Oracle-P15k   | [Mitigating Long-tail Distribution in Oracle Bone Inscriptions: Dataset, Model, and Benchmark](https://dl.acm.org/doi/10.1145/3746027.3755067) | [Github](https://github.com/OBI-Future/Oracle-P15K) |
 
-## Paper Index (Task-oriented)
+## Paper Index (Task-oriented, Chronological)
 This section provides a task-oriented index of **OBI Processing Tasks and Approaches** papers, aligned with the task taxonomy used in this survey (Section 4 of our [paper](https://www.authorea.com/users/1009838/articles/1369823-oracle-bone-inscriptions-information-processing-a-comprehensive-survey)).
 
 ### OBI Preprocessing: Data Augmentation & Restoration
@@ -175,10 +175,10 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 | Paper | Venue & Year | Focus |
 | :---: | :----------: | :---- |
 | [Dynamic Dataset Augmentation for Deep Learning-based Oracle Bone Inscriptions Recognition](https://dl.acm.org/doi/10.1145/3532868) | ACM JOCCH 2022 | GAN-based dynamic augmentation |
-| [Oracle Bone Heritage Data Augmentation Based on Two-stage Decomposition GANs](https://www.nature.com/articles/s40494-025-01774-z) | npj Heritage Science 2025 | Two-stage decomposition GAN |
-| [Mitigating Long-tail Distribution in Oracle Bone Inscriptions: Dataset, Model, and Benchmark](https://dl.acm.org/doi/10.1145/3746027.3755067) | ACM MM 2025 | Diffusion-based synthesis, long-tail |
 | [Large Kernel Convolutional Attention Based U-Net Network for Inpainting Oracle Bone Inscription](https://link.springer.com/chapter/10.1007/978-981-99-8552-4_10) | PRCV 2023 | U-Net based inpainting |
 | [Coarse-to-Fine Generative Model for Oracle Bone Inscriptions Inpainting](https://aclanthology.org/2024.ml4al-1.12/) | ML4AL @ ACL 2024 | GAN-based coarse-to-fine inpainting |
+| [Oracle Bone Heritage Data Augmentation Based on Two-stage Decomposition GANs](https://www.nature.com/articles/s40494-025-01774-z) | npj Heritage Science 2025 | Two-stage decomposition GAN |
+| [Mitigating Long-tail Distribution in Oracle Bone Inscriptions: Dataset, Model, and Benchmark](https://dl.acm.org/doi/10.1145/3746027.3755067) | ACM MM 2025 | Diffusion-based synthesis, long-tail |
 | [Oracle Bone Inscription Image Restoration via Glyph Extraction](https://www.nature.com/articles/s40494-025-01795-8) | npj Heritage Science 2025 | Glyph-driven restoration |
 | [OBIFormer: A Fast Attentive Denoising Framework for Oracle Bone Inscriptions](https://www.sciencedirect.com/science/article/abs/pii/S0141938225000964) | Displays 2025 | Attention-based denoising |
 | [Orpaint: A Zero-shot Inpainting Model for Oracle Bone Inscription Rubbings with Visual Mamba Block](https://link.springer.com/article/10.1007/s11432-024-4493-4) | SCIS 2025 | Diffusion-based inpainting |
@@ -192,23 +192,23 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 | Paper | Venue & Year | Focus |
 | :---: | :----------: | :---- |
 | [A Method of Jia Gu Wen Recognition Based on a Two-level Classification](https://ieeexplore.ieee.org/document/602030/) | ICDAR 1995 | Two-level classification, topological structure |
-| [Recognition of Oracular Bone Inscriptions Using Template Matching](https://www.ijcte.org/vol8/1019-C010.pdf) | IJCTE 2016 | Four-directional scanning, template matching |
 | [Oracle-Bone Inscriptions Recognition Based on Topological Features](https://pdf.hanspub.org/csa20190600000_45957966.pdf) | CSA 2019 | Topological feature points, connected domains |
+| [Recognition of Oracular Bone Inscriptions Using Template Matching](https://www.ijcte.org/vol8/1019-C010.pdf) | IJCTE 2016 | Four-directional scanning, template matching |
 
 
 #### Deep Representation Learning-Based Recognition
 
 | Paper | Venue & Year | Focus |
 | :---: | :----------: | :---- |
-| [Oracle Character Detection Based on Improved Faster R-CNN](https://ieeexplore.ieee.org/document/9526033/) | IEEE ICITBS 2021 | Two-stage detector with feature fusion |
 | [Oracle Bone Inscription Detector Based on SSD](https://dl.acm.org/doi/10.1007/978-3-030-30754-7_13) | ICIAP 2019 | SSD-based small character detection |
-| [Recognition of Oracle Bone Inscriptions by Using Two Deep Learning Models](https://link.springer.com/article/10.1007/s42803-022-00044-9) | IJDH 2023 | YOLO + MobileNet pipeline |
-| [FDW-YOLO: An Improved YOLOv12 for Oracle Bone Inscriptions Detection](https://link.springer.com/chapter/10.1007/978-981-95-4378-6_18) | ICONIP 2025 | Feature diffusion pyramid, mixed convolution |
-| [Oracle Character Prototype-Guided Cyclic Disentanglement for Oracle Bone Inscriptions Detection](https://link.springer.com/chapter/10.1007/978-981-97-8705-0_14) | ICPRAI 2024 | Prototype guidance, contrastive disentanglement |
-| [Detecting Oracle Bone Inscriptions via Pseudo-category Labels](https://www.nature.com/articles/s40494-024-01221-5) | Heritage Science 2024 | Pseudo-label supervision, structural prior |
-| [Clustering-based Feature Representation Learning for Oracle Bone Inscriptions Detection](https://www.nature.com/articles/s40494-025-01850-4) | npj Heritage Science 2025 | Clustering-based representation learning |
+| [Oracle Character Detection Based on Improved Faster R-CNN](https://ieeexplore.ieee.org/document/9526033/) | IEEE ICITBS 2021 | Two-stage detector with feature fusion |
 | [Radical-based Extract and Recognition Networks for Oracle Character Recognition](https://link.springer.com/article/10.1007/s10032-021-00392-2) | IJDAR 2022 | Radical-aware feature extraction |
 | [Toward Zero-shot Character Recognition: A Gold Standard Dataset with Radical-level Annotations](https://dl.acm.org/doi/10.1145/3581783.3612201) | ACM MM 2023 | Radical-level supervision, zero-shot setting |
+| [Recognition of Oracle Bone Inscriptions by Using Two Deep Learning Models](https://link.springer.com/article/10.1007/s42803-022-00044-9) | IJDH 2023 | YOLO + MobileNet pipeline |
+| [Oracle Character Prototype-Guided Cyclic Disentanglement for Oracle Bone Inscriptions Detection](https://link.springer.com/chapter/10.1007/978-981-97-8705-0_14) | ICPRAI 2024 | Prototype guidance, contrastive disentanglement |
+| [Detecting Oracle Bone Inscriptions via Pseudo-category Labels](https://www.nature.com/articles/s40494-024-01221-5) | Heritage Science 2024 | Pseudo-label supervision, structural prior |
+| [FDW-YOLO: An Improved YOLOv12 for Oracle Bone Inscriptions Detection](https://link.springer.com/chapter/10.1007/978-981-95-4378-6_18) | ICONIP 2025 | Feature diffusion pyramid, mixed convolution |
+| [Clustering-based Feature Representation Learning for Oracle Bone Inscriptions Detection](https://www.nature.com/articles/s40494-025-01850-4) | npj Heritage Science 2025 | Clustering-based representation learning |
 |[Prism-OBI: a novel framework for oracle bone inscription recognition via visual perception and feature decoupling](https://www.nature.com/articles/s40494-026-02493-9)|npj Heritage Science 2026|Semantic classification, isolating strokes|
 
 
@@ -218,18 +218,18 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 
 | Paper | Venue & Year | Focus |
 | :---: | :----------: | :---- |
-| [The Research on Rejoining of the Oracle Bone Rubbings Based on Curve Matching](https://dl.acm.org/doi/10.1145/3460393) | TALLIP 2021 | Partial-to-global curve matching |
 | [Research on Key Technologies of the Computer Aided Rejoining of Oracle Bone Inscriptions](https://ieeexplore.ieee.org/document/5609279) | ICIFE 2010 | Freeman chain code, contour matching |
 | [System Design for Computer Aided Rejoining of Bones/Tortoise Shells with Inscriptions Based on Contour Matching](https://ieeexplore.ieee.org/document/5688700) | ICCCT 2010 | Shape function–based contour matching |
 | [AI-powered Oracle Bone Inscriptions Recognition and Fragments Rejoining](https://www.ijcai.org/proceedings/2020/779) | IJCAI 2020 | Time-series modeling of contour curves |
+| [The Research on Rejoining of the Oracle Bone Rubbings Based on Curve Matching](https://dl.acm.org/doi/10.1145/3460393) | TALLIP 2021 | Partial-to-global curve matching |
 
 #### Deep Learning–Assisted Methods
 
 | Paper | Venue & Year | Focus |
 | :---: | :----------: | :---- |
+| [Data-driven Oracle Bone Rejoining: A Dataset and Practical Self-supervised Learning Scheme](https://dl.acm.org/doi/10.1145/3534678.3539050) | KDD 2022 | Self-supervised learning, dataset-driven |
 | [Internal Similarity Network for Rejoining Oracle Bone Fragment Images](https://www.mdpi.com/2073-8994/14/7/1464) | Symmetry 2022 | Internal similarity pooling network |
 | [SFF-Siam: A New Oracle Bone Rejoining Method Based on Siamese Network](https://ieeexplore.ieee.org/document/10153461) | IEEE CG&A 2023 | Siamese network with similarity feature fusion |
-| [Data-driven Oracle Bone Rejoining: A Dataset and Practical Self-supervised Learning Scheme](https://dl.acm.org/doi/10.1145/3534678.3539050) | KDD 2022 | Self-supervised learning, dataset-driven |
 | [OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery](https://arxiv.org/abs/2505.03836) | arXiv 2025 | Duplicate discovery, coarse-to-fine matching |
 | [A multi-modal dataset and method for bone-level association prediction in oracle bone inscriptions](https://www.nature.com/articles/s40494-025-02282-w) |npj heritage science 2026|multi-modal deep learning method|
 
@@ -242,12 +242,12 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 | :---: | :----------: | :---- |
 | [Building Hierarchical Representations for Oracle Character and Sketch Recognition](https://ieeexplore.ieee.org/document/7327196/) | IEEE TIP 2016 | Hierarchical representation, early classification |
 | [OBC306: A Large-scale Oracle Bone Character Recognition Dataset](https://ieeexplore.ieee.org/document/8978032/) | ICDAR 2019 | Large-scale dataset, CNN benchmarks |
+| [A Classification Method of Oracle Materials Based on Local Convolutional Neural Network Framework](https://ieeexplore.ieee.org/document/9004518/) | IEEE CG&A 2020 | Two-stage material classification |
+| [Oracle Character Image Retrieval by Combining Deep Neural Networks and Clustering Technology](https://www.iaeng.org/IJCS/issues_v47/issue_2/IJCS_47_2_08.pdf) | IAENG IJCS 2020 | DNN + clustering retrieval |
+| [Distinguishing Oracle Variants Based on Isomorphism and Symmetry Invariances of Oracle-bone Inscriptions](https://ieeexplore.ieee.org/document/9171826/) | IEEE Access 2020 | Symmetry and invariance modeling |
 | [Oracle Bone Inscriptions Recognition Based on Deep Convolutional Neural Network](https://www.joig.net/index.php?m=content&c=index&a=show&catid=66&id=249) | JOIG 2020 | CNN-based classification |
 | [Improvement of Oracle Bone Inscription Recognition Accuracy: A Deep Learning Perspective](https://www.mdpi.com/2220-9964/11/1/45) | ISPRS IJGI 2022 | Deep learning baselines |
-| [A Classification Method of Oracle Materials Based on Local Convolutional Neural Network Framework](https://ieeexplore.ieee.org/document/9004518/) | IEEE CG&A 2020 | Two-stage material classification |
-| [Distinguishing Oracle Variants Based on Isomorphism and Symmetry Invariances of Oracle-bone Inscriptions](https://ieeexplore.ieee.org/document/9171826/) | IEEE Access 2020 | Symmetry and invariance modeling |
 | [OraclePoints: A Hybrid Neural Representation for Oracle Character](https://dl.acm.org/doi/10.1145/3581783.3612534) | ACM MM 2023 | Image–point hybrid representation |
-| [Oracle Character Image Retrieval by Combining Deep Neural Networks and Clustering Technology](https://www.iaeng.org/IJCS/issues_v47/issue_2/IJCS_47_2_08.pdf) | IAENG IJCS 2020 | DNN + clustering retrieval |
 | [Oracle Bone Inscription Image Retrieval Based on Improved ResNet Network](https://link.springer.com/chapter/10.1007/978-3-031-78305-0_4) | ICPR 2024 | Siamese-style metric learning |
 | [A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions](https://link.springer.com/chapter/10.1007/978-981-96-9794-6_17) | ICIC 2025 | Cross-font retrieval |
 |[Stroke-Based Perception: Discover Novel Oracle Characters](https://ieeexplore.ieee.org/abstract/document/11482847/)|IEEE TMM 2026|Semi-Supervised, Category Discovery|
