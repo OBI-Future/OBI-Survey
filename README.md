@@ -170,7 +170,7 @@ year={2026}
 ## Paper Index (Task-oriented, Chronological)
 This section provides a task-oriented index of **OBI Processing Tasks and Approaches** papers, aligned with the task taxonomy used in this survey (Section 4 of our [paper](https://www.authorea.com/users/1009838/articles/1369823-oracle-bone-inscriptions-information-processing-a-comprehensive-survey)).
 
-### OBI Preprocessing: Data Augmentation & Restoration
+### OBI Preprocessing: Data Augmentation & Restoration & Generation
 
 | Paper | Venue & Year | Focus |
 | :---: | :----------: | :---- |
@@ -184,6 +184,7 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 | [Orpaint: A Zero-shot Inpainting Model for Oracle Bone Inscription Rubbings with Visual Mamba Block](https://link.springer.com/article/10.1007/s11432-024-4493-4) | SCIS 2025 | Diffusion-based inpainting |
 | [Multi-modal Ancient Scripts Recognition via Deep Learning with Data Homogenization and Augmentation](https://www.nature.com/articles/s40494-025-02095-x) | npj Heritage Science 2025 | Cross-modal data homogenization |
 | [Generating Oracle Bone Inscriptions Based on the Structure-aware Diffusion Model](https://www.nature.com/articles/s40494-025-02000-6) | npj Heritage Science 2025 | Structure-aware diffusion |
+| [Diff-Oracle: Learning Styles and Contents to Augment Realistic Oracle Characters in Diffusion Model](https://dl.acm.org/doi/abs/10.1145/3806389)|ACM TOMM 2026|Diffusion, style encoding|
 
 ### OBI Recognition
 
