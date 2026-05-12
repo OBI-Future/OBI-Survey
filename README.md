@@ -305,5 +305,5 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 | [OBI-Bench: Can LMMs Aid in Study of Ancient Script on Oracle Bones?](https://arxiv.org/abs/2412.01175) | ICLR 2025 | Systematic evaluation of LMM-based oracle interpretation |
 | [Interpretable Oracle Bone Script Decipherment through Radical and Pictographic Analysis with LVLMs](https://arxiv.org/abs/2508.10113) | arXiv 2025 | LVLM-based interpretable decipherment |
 | [OracleAgent: A Multimodal Reasoning Agent for Oracle Bone Script Research](https://arxiv.org/abs/2510.26114) | arXiv 2025 | Agentic system for structured oracle interpretation |
-｜[Deciphering oracle bone characters: Pictographic captioning and reasoning for morphological recognition](https://www.sciencedirect.com/science/article/pii/S0306457326002396)｜Information Processing & Management 2026｜Pictographic captioning and reasoning, LMM｜
+|[Deciphering oracle bone characters: Pictographic captioning and reasoning for morphological recognition](https://www.sciencedirect.com/science/article/pii/S0306457326002396)|Information Processing & Management 2026|Pictographic captioning and reasoning, LMM|
 
