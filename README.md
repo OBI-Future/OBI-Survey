@@ -213,6 +213,12 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 |[Prism-OBI: a novel framework for oracle bone inscription recognition via visual perception and feature decoupling](https://www.nature.com/articles/s40494-026-02493-9)|npj Heritage Science 2026|Semantic classification, isolating strokes|
 
 
+#### MLLM-Based Recognition
+| Paper | Venue & Year | Focus |
+| :---: | :----------: | :---- |
+|[Chronicles-OCR: A Cross-Temporal Perception Benchmark for the Evolutionary Trajectory of Chinese Characters](https://arxiv.org/abs/2605.11960)|arxiv 2026.05|Cross-period character spotting, archaic character recognition, MLLM|
+
+
 ### OBI Rejoining
 
 #### Contour Matching-Based Methods
