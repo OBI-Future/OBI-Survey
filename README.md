@@ -313,4 +313,5 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 | [Interpretable Oracle Bone Script Decipherment through Radical and Pictographic Analysis with LVLMs](https://arxiv.org/abs/2508.10113) | arXiv 2025 | LVLM-based interpretable decipherment |
 | [OracleAgent: A Multimodal Reasoning Agent for Oracle Bone Script Research](https://arxiv.org/abs/2510.26114) | arXiv 2025 | Agentic system for structured oracle interpretation |
 |[Deciphering oracle bone characters: Pictographic captioning and reasoning for morphological recognition](https://www.sciencedirect.com/science/article/pii/S0306457326002396)|Information Processing & Management 2026|Pictographic captioning and reasoning, LMM|
+|[A multi-task multimodal reasoning framework for oracle bone character interpretation](https://www.sciengine.com/SSI/doi/10.1360/SSI-2025-0551)|SCIENTIA SINICA Informationis (中国科学：信息科学) 2026|Semantic interpretation, pretraining corpus, multi-task multimodal reasoning|
 
