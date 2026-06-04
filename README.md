@@ -185,6 +185,7 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 | [Multi-modal Ancient Scripts Recognition via Deep Learning with Data Homogenization and Augmentation](https://www.nature.com/articles/s40494-025-02095-x) | npj Heritage Science 2025 | Cross-modal data homogenization |
 | [Generating Oracle Bone Inscriptions Based on the Structure-aware Diffusion Model](https://www.nature.com/articles/s40494-025-02000-6) | npj Heritage Science 2025 | Structure-aware diffusion |
 | [Diff-Oracle: Learning Styles and Contents to Augment Realistic Oracle Characters in Diffusion Model](https://dl.acm.org/doi/abs/10.1145/3806389)|ACM TOMM 2026|Diffusion, style encoding|
+|[Detecting unknown and classifying known oracle bone characters via novel data augmentation](https://www.nature.com/articles/s40494-026-02678-2)|npj Heritage Science 2026|Dynamic gridMask, data augmentation, OOD detection|
 
 ### OBI Recognition
 
