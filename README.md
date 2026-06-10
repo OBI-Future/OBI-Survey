@@ -212,6 +212,7 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 | [FDW-YOLO: An Improved YOLOv12 for Oracle Bone Inscriptions Detection](https://link.springer.com/chapter/10.1007/978-981-95-4378-6_18) | ICONIP 2025 | Feature diffusion pyramid, mixed convolution |
 | [Clustering-based Feature Representation Learning for Oracle Bone Inscriptions Detection](https://www.nature.com/articles/s40494-025-01850-4) | npj Heritage Science 2025 | Clustering-based representation learning |
 |[Prism-OBI: a novel framework for oracle bone inscription recognition via visual perception and feature decoupling](https://www.nature.com/articles/s40494-026-02493-9)|npj Heritage Science 2026|Semantic classification, isolating strokes|
+|[OracleDet: structure-guided and spatial-frequency aware detection of oracle bone inscriptions in complex heritage scenes](https://www.nature.com/articles/s40494-026-02621-5)|npj Heritage Science 2026|Structure-guided, spatial-frequency aware|
 
 
 #### MLLM-Based Recognition
