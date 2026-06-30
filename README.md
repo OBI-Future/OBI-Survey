@@ -316,4 +316,5 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 |[Deciphering oracle bone characters: Pictographic captioning and reasoning for morphological recognition](https://www.sciencedirect.com/science/article/pii/S0306457326002396)|Information Processing & Management 2026|Pictographic captioning and reasoning, LMM|
 |[A multi-task multimodal reasoning framework for oracle bone character interpretation](https://www.sciengine.com/SSI/doi/10.1360/SSI-2025-0551)|SCIENTIA SINICA Informationis (中国科学：信息科学) 2026|Semantic interpretation, pretraining corpus, multi-task multimodal reasoning|
 |[AlphaOracle: Oracle bone script decipherment via human-workflow-inspired deep learning](https://www.cell.com/the-innovation/fulltext/S2666-6758(26)00209-2)|The Innovation|Diachronic modeling, human-workflow-inspired|
+|[OracleAnalyser: Analysing Implicit Semantics of Oracle Bone Scripts through MLLMs with Post-training](https://arxiv.org/abs/2606.25906)|arxiv 2026|oracle bone reasoning and preference datasets, oracle bone analysis, stable focal preference optimization|
 
