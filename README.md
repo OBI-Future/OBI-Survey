@@ -18,6 +18,10 @@ This repository accompanies the survey *Oracle Bone Inscriptions Information Pro
 **Project Page:** *This repository*
 
 ---
+## Update History 📜
+2026.6.30: Add [OracleAnalyser: Analysing Implicit Semantics of Oracle Bone Scripts through MLLMs with Post-training](https://arxiv.org/abs/2606.25906) to [Text Interpretation-Based Deciphering](#text-interpretation-based-deciphering)
+
+---
 
 ## Contributions
 
