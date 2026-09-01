@@ -19,6 +19,8 @@ This repository accompanies the survey *Oracle Bone Inscriptions Information Pro
 
 ---
 ## Update History 📜
+2026.9.1: Add [Decipherment of Oracle Bone Inscription via Component Deconstruction and Alignment](https://link.springer.com/chapter/10.1007/978-3-032-36023-6_28) to [Modern Chinese Alignment-Based Deciphering](#modern-chinese-alignment-based-deciphering)
+2026.9.1: Add [Evolution-Guided Diffusion for Oracle Bone Script Decipherment](https://link.springer.com/chapter/10.1007/978-3-032-36023-6_39) to [Modern Chinese Alignment-Based Deciphering](#modern-chinese-alignment-based-deciphering)
 2026.6.30: Add [OracleAnalyser: Analysing Implicit Semantics of Oracle Bone Scripts through MLLMs with Post-training](https://arxiv.org/abs/2606.25906) to [Text Interpretation-Based Deciphering](#text-interpretation-based-deciphering)
 
 ---
@@ -299,6 +301,8 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 | [A Graph-Based Evolutionary Dataset for Oracle Bone Characters](https://www.nature.com/articles/s40494-025-01951-0) | npj Heritage Science 2025 | Graph representations for oracle–modern character evolution |
 | [A Text–Image Dual Conditional Stable Diffusion Model for Oracle Bone Inscription Decipherment](https://www.nature.com/articles/s40494-025-02019-9) | npj Heritage Science 2025 | Dual-condition diffusion with visual–semantic alignment |
 |[Enhancing Multimodal Large Language Models for Ancient Chinese Character Evolution Analysis via Glyph-Driven Fine-Tuning](https://arxiv.org/pdf/2604.11299)]|arxiv 2026|Character Evolution Analysis, Glyph-Driven, MLLM|
+|[Evolution-Guided Diffusion for Oracle Bone Script Decipherment](https://link.springer.com/chapter/10.1007/978-3-032-36023-6_39)|ICDAR 2026|Evolution-Guided Diffusion|
+[Decipherment of Oracle Bone Inscription via Component Deconstruction and Alignment](https://link.springer.com/chapter/10.1007/978-3-032-36023-6_28)|ICDAR 2026|OBI-to-modern glyph translation, Diffusion|
 
 #### Visual Content Alignment-Based Deciphering
 
