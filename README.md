@@ -19,6 +19,8 @@ This repository accompanies the survey *Oracle Bone Inscriptions Information Pro
 
 ---
 ## Update History 📜
+2026.9.2: Add [Can Neural Networks Learn Visual Correspondence Between Pictographic Oracle Bone Scripts and Object Images?](https://www.sciencedirect.com/science/article/pii/S0957417426030848?via=ihub) to [Deep Representation Learning-Based Recognition](#deep-representation-learning-based-recognition)
+
 2026.9.1: Add [Decipherment of Oracle Bone Inscription via Component Deconstruction and Alignment](https://link.springer.com/chapter/10.1007/978-3-032-36023-6_28) to [Modern Chinese Alignment-Based Deciphering](#modern-chinese-alignment-based-deciphering)
 
 2026.9.1: Add [Evolution-Guided Diffusion for Oracle Bone Script Decipherment](https://link.springer.com/chapter/10.1007/978-3-032-36023-6_39) to [Modern Chinese Alignment-Based Deciphering](#modern-chinese-alignment-based-deciphering)
@@ -221,6 +223,7 @@ This section provides a task-oriented index of **OBI Processing Tasks and Approa
 | [Clustering-based Feature Representation Learning for Oracle Bone Inscriptions Detection](https://www.nature.com/articles/s40494-025-01850-4) | npj Heritage Science 2025 | Clustering-based representation learning |
 |[Prism-OBI: a novel framework for oracle bone inscription recognition via visual perception and feature decoupling](https://www.nature.com/articles/s40494-026-02493-9)|npj Heritage Science 2026|Semantic classification, isolating strokes|
 |[OracleDet: structure-guided and spatial-frequency aware detection of oracle bone inscriptions in complex heritage scenes](https://www.nature.com/articles/s40494-026-02621-5)|npj Heritage Science 2026|Structure-guided, spatial-frequency aware|
+|[Can Neural Networks Learn Visual Correspondence Between Pictographic Oracle Bone Scripts and Object Images?](https://www.sciencedirect.com/science/article/pii/S0957417426030848?via=ihub)|Expert Systems with Applications 2026|category-level cross-domain, pictographic OBS|
 
 
 #### MLLM-Based Recognition
