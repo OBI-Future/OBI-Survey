@@ -19,13 +19,10 @@ This repository accompanies the survey *Oracle Bone Inscriptions Information Pro
 
 ---
 ## Update History 📜
-2026.9.2: Add [Can Neural Networks Learn Visual Correspondence Between Pictographic Oracle Bone Scripts and Object Images?](https://www.sciencedirect.com/science/article/pii/S0957417426030848?via=ihub) to [Deep Representation Learning-Based Recognition](#deep-representation-learning-based-recognition)
-
-2026.9.1: Add [Decipherment of Oracle Bone Inscription via Component Deconstruction and Alignment](https://link.springer.com/chapter/10.1007/978-3-032-36023-6_28) to [Modern Chinese Alignment-Based Deciphering](#modern-chinese-alignment-based-deciphering)
-
-2026.9.1: Add [Evolution-Guided Diffusion for Oracle Bone Script Decipherment](https://link.springer.com/chapter/10.1007/978-3-032-36023-6_39) to [Modern Chinese Alignment-Based Deciphering](#modern-chinese-alignment-based-deciphering)
-
-2026.6.30: Add [OracleAnalyser: Analysing Implicit Semantics of Oracle Bone Scripts through MLLMs with Post-training](https://arxiv.org/abs/2606.25906) to [Text Interpretation-Based Deciphering](#text-interpretation-based-deciphering)
+- 2026.9.2: Add [Can Neural Networks Learn Visual Correspondence Between Pictographic Oracle Bone Scripts and Object Images?](https://www.sciencedirect.com/science/article/pii/S0957417426030848?via=ihub) to [Deep Representation Learning-Based Recognition](#deep-representation-learning-based-recognition)
+- 2026.9.1: Add [Decipherment of Oracle Bone Inscription via Component Deconstruction and Alignment](https://link.springer.com/chapter/10.1007/978-3-032-36023-6_28) to [Modern Chinese Alignment-Based Deciphering](#modern-chinese-alignment-based-deciphering)
+- 2026.9.1: Add [Evolution-Guided Diffusion for Oracle Bone Script Decipherment](https://link.springer.com/chapter/10.1007/978-3-032-36023-6_39) to [Modern Chinese Alignment-Based Deciphering](#modern-chinese-alignment-based-deciphering)
+- 2026.6.30: Add [OracleAnalyser: Analysing Implicit Semantics of Oracle Bone Scripts through MLLMs with Post-training](https://arxiv.org/abs/2606.25906) to [Text Interpretation-Based Deciphering](#text-interpretation-based-deciphering)
 
 ---
 
@@ -46,7 +43,7 @@ If you find this repository useful, please consider giving us a ⭐. Thank you f
 If our work is helpful in your research, please cite our survey as:
 
 ```bibtex
-@article{Chen_2026,
+@article{Chen_OBIsurvey_2026,
 title={Oracle Bone Inscriptions Information Processing: A Comprehensive Survey},
 journal={npj Heritage Science},
 volume={14},
